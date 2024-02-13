@@ -64,6 +64,10 @@ Explore some of my other projects:
 
 - [HR ANALYTICS DASHBOARD](https://github.com/Jayanth-Pujar/HR-Analytics) 📊
 - [SALES DATA ANALYSIS](https://github.com/Jayanth-Pujar/Sales-Data-Analysis) 🛒
+- [Netflix Data Analysis using Python](https://github.com/Jayanth-Pujar/Python-Analysis-Netflix-Data) 🎬
+- [Bank Loan Analysis using Tableau](https://github.com/Jayanth-Pujar/Tableau-Project-BlueBank) 💼
+- [Blog Me Sentiment Analysis using Python](https://github.com/Jayanth-Pujar/Python-Project-BlogMe-Sentimental-Analysis) 📰
+- [Music Store Analysis using MySQL](https://github.com/Jayanth-Pujar/SQL-PROJECT-Music-Store-Analysis/tree/main) 🎶
 
 ## Contributing
 
